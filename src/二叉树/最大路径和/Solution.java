@@ -1,3 +1,10 @@
+package 二叉树.最大路径和;
+public class Solution {
+    public static void main(String[] args) {
+
+    }
+}
+
 //package 二叉树.最大路径和;
 //
 //
